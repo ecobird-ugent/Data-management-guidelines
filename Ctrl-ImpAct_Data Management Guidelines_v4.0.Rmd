@@ -168,10 +168,11 @@ Important points to keep in mind:
 -   Team members should keep a *single master file of raw data* that should be left untouched. For sharing with collaborators, editing, analysis etc. they should use working copies instead, so that the original files are not affected.
 -   Team members should *never delete raw data files*, even when experiment subjects are excluded or something went wrong with data collection. The only acceptable exceptions are raw data generated when they run themselves through a few trials to check whether the computer program works, or to give a demo.
 
-## 2.3. Short-term data storage and backup
+## 2.3. Short-term data storage
 Consistently storing and backing up data keeps them safe and recoverable.
 
 Team members should regularly check the completeness, accuracy and integrity of all stored files for the experiments they conduct (e.g. checking that raw data files are complete, that there are no duplications, that all required documentation files are present and accurate, that there have been no inadvertent file deletions or modifications...).
+
 
 ### 2.3.1. Different storage options
 Uncompressed experiment files can be stored locally (e.g. on a team member's PC), on shared network drives, or in the cloud (e.g. commercial platforms, such as OneDrive, Dropbox, Google Drive, or iCloud, but also cloud-based management services, such as Open Science Framework [Open Science Framework (OSF)](https://osf.io/)).
