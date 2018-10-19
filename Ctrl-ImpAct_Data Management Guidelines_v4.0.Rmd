@@ -92,7 +92,7 @@ Research data management is the joint responsibility of the Principal Investigat
 
 # 2. Data documentation, formatting and storage
 ## 2.1. File structure and data documentation
-For each experiment, team members should store data and other files in one folder. Within each experiment folder, there can be several sub-folders (depending on the nature of the experiment):
+For each experiment, team members should store data and other files in one folder. Within each experiment folder, there can be several subfolders (depending on the nature of the experiment):
 
 -   Data
 -   Software
