@@ -153,6 +153,8 @@ Experiment folder and file names should include the acronyms of both the larger 
 
 For example, the file named 'CIA_PrepTMS_ExpDoc.md' contains the experiment documentation of the 'Preparation TMS' experiment in the 'Control of Impulsive Action' project. For more folder and file name examples, see **Appendix A**.
 
+[WOULD YOU CONSIDER FURTHER RECOMMENDATIONS? LIKE NO SPACES OR SPECIAL CHARACTERS?]
+
 ### 2.2.3. Version control
 
 **Version control** should be used when there is, or likely will be, more than one version of a file, for example because it is edited or stored in multiple locations.
