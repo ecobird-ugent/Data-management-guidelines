@@ -95,7 +95,7 @@ Research data management is the joint responsibility of the Principal Investigat
 For each experiment, team members should store data and other files in one folder. Within each experiment folder, there can be several subfolders (depending on the nature of the experiment):
 
 -   Data
--   Software
+-   Code
 -   Documentation
 
 The PI and team members can group together the folders of experiments that are part of their larger research projects (i.c. grant-funded and PhD projects) in a 'project' folder.
@@ -106,11 +106,11 @@ The data folder of an experiment will have two subfolders:
 -   *Raw*: raw files collected during the experiment. No other files should be present in this folder.
 -   *Processed*: any data that have been subjected to automated or manual processing routines. It is important to document the processing routines in an analysis document or in R (see section 2.1.3).
 
-### 2.1.2. Software
-The software folder of an experiment will have two subfolders:
+### 2.1.2. Code
+The code folder of an experiment will have two subfolders:
 
--   *Experiment*: the software that was used to run the experiment
--   *Analysis*: the software that was required to analyse the data
+-   *Experiment*: the code and software that was used to run the experiment
+-   *Analysis*: the code that was required to analyse the data
 
 ### 2.1.3. Documentation
 Detailed documentation of the data collection and data analysis process helps other researchers understand your data and can provide further evidence of data quality.
