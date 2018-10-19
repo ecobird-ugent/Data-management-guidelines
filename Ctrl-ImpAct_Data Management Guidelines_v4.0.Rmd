@@ -141,7 +141,7 @@ Together with their project folders, the PI and PGRs should also create *project
 -   Documentation files: (R)markdown, txt, and/or pdf
 -   Behavioural data: where possible, create a txt or csv copy
 -   Questionnaire data: csv file with the scores/ratings
--   Digital image data: TIFF version 6 uncompressed (.tif)
+-   Digital image data: TIFF version 6 uncompressed (.tif) [FOR OUR PURPOSES I THINK THIS IS OVERKILL; I PREFER PNG THEN]
 -   Digital audio data: Free Lossless Audio Codec (FLAC)
 
 ### 2.2.2. Folder and file naming
