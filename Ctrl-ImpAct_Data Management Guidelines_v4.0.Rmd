@@ -103,14 +103,14 @@ The PI and team members can group together the folders of experiments that are p
 ### 2.1.1. Data
 The data folder of an experiment will have two subfolders:
 
--   *Raw data*: raw files collected during the experiment. No other files should be present in this folder.
--   *Processed data*: any data that have been subjected to automated or manual processing routines. It is important to document the processing routines in an analysis document or in R (see section 2.1.3).
+-   *Raw*: raw files collected during the experiment. No other files should be present in this folder.
+-   *Processed*: any data that have been subjected to automated or manual processing routines. It is important to document the processing routines in an analysis document or in R (see section 2.1.3).
 
 ### 2.1.2. Software
 The software folder of an experiment will have two subfolders:
 
--   *Experiment software*: the software that was used to run the experiment
--   *Analysis software*: the software that was required to analyse the data
+-   *Experiment*: the software that was used to run the experiment
+-   *Analysis*: the software that was required to analyse the data
 
 ### 2.1.3. Documentation
 Detailed documentation of the data collection and data analysis process helps other researchers understand your data and can provide further evidence of data quality.
