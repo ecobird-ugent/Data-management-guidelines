@@ -144,6 +144,8 @@ Together with their project folders, the PI and PGRs should also create *project
 -   Digital image data: TIFF version 6 uncompressed (.tif) [FOR OUR PURPOSES I THINK THIS IS OVERKILL; I PREFER PNG THEN]
 -   Digital audio data: Free Lossless Audio Codec (FLAC)
 
+See also [recommended formats](https://www.ukdataservice.ac.uk/manage-data/format/recommended-formats) by the UK Data service.
+
 ### 2.2.2. Folder and file naming
 Experiment folders and files should be named appropriately and consistently.
 
