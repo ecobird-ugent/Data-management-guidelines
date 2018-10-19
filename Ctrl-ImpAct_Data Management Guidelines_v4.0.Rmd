@@ -84,7 +84,7 @@ Research data management is the joint responsibility of the Principal Investigat
 - Depositing data that support publications on which they are lead author
 
 ## 1.3. PGR students are in addition responsible for:
-- Writing a data management plan; see FPPW's [doctoral regulations](https://www.ugent.be/pp/en/research/rdm/data-management-plan.htm)  
+- Writing a data management plan; see FPPW's [doctoral regulations](http://www.fppwdocs.ugent.be/fppw/fac_doct_regl_EN/fac_doct_regl_EN.pdf) and [DMP instructions](https://www.ugent.be/pp/en/research/rdm/data-management-plan.htm)
 - Depositing remaining data sets and project-level documentation at the end of their doctoral research project
 - Upload a data storage fact sheet to the UGent Biblio archive (for more information, see: https://www.ugent.be/pp/en/research/rdm/data-storage-fact-sheet.htm)
 
