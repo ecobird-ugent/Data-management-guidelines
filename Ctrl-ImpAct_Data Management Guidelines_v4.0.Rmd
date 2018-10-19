@@ -115,12 +115,12 @@ The code folder of an experiment will have two subfolders:
 ### 2.1.3. Documentation
 Detailed documentation of the data collection and data analysis process helps other researchers understand your data and can provide further evidence of data quality.
 
-Team members should create sufficient *experiment/study- and data-level documentation* for each of their experiments, so that others can reuse or reanalyse the data and reproduce the results. The PI can assist with experiment and analysis documentation, for example by providing team members with templates of research project summaries or by sharing R analysis scripts.
+Team members should create sufficient *experiment/study- and data-level documentation* for each of their experiments, so that others can reuse or reanalyse the data and replicate the results. The PI can assist with experiment and analysis documentation, for example by providing team members with templates of research project summaries or by sharing R analysis scripts.
 
 The documentation folder of an experiment should always include:  
 
 -   *Experiment Documentation*: a text document with experiment and data information [as outlined in **Appendix B**]
--   *Analysis Documentation*: a text document explaining how the data were processed and analysed, and including the information listed in **Appendix B**. If you use R, you can create the analysis document within R and include a summary of data analysis outcomes.
+-   *Analysis Documentation*: a text document explaining how the data were processed and analysed, and including the information listed in **Appendix B**. If you use R, you can create the analysis document within R (using [RMarkdown](https://rmarkdown.rstudio.com/)) and include a summary of data analysis outcomes.
 
 In addition, the documentation folder of an experiment *could* also include:
 
