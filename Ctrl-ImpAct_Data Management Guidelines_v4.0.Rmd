@@ -331,7 +331,7 @@ Before sharing data, researchers should know who owns the intellectual property 
 
 <!-- Under UK Law, universities usually own the IPR arising from research by their employees in the course of employment. In practice, as is the case at the University of Exeter, copyright of research materials and publications is often assigned to researchers, unless the latter have signed IPR agreements (e.g. with funders) stating otherwise. As PhD students are not considered to be university employees, they own the copyright of data and outputs from their research (unless they have sponsors claiming IPR). For collaborative research, all researchers or institutions involved own copyright. -->
 
-More details on UGent's Intellectual Property policy can be found at [ADD LINK]
+More details on UGent's Intellectual Property policy can be found in the  [Valorisatiereglement](https://www.ugent.be/intranet/nl/reglementen/onderzoek/reglementen/valorisatiereglement) and in the (Onderzoeksreglement AUGent)[https://www.ugent.be/intranet/nl/reglementen/onderzoek/reglementen/onderzoeksreglementaugent.pdf/at_download/file] (both in Dutch).
 
 ***Personal, confidential and sensitive data:***
 Research with human participants can generate data containing personal, confidential or sensitive information, the sharing of which may breach legal and ethical obligations.
