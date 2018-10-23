@@ -240,7 +240,7 @@ The PI and other team members should *NEVER* formally or informally share:
 - Data and other files for which they don't own *copyright* or don't have permission to share from the copyright holders
 - Data and other files that contain *personal*, *confidential* or *sensitive information* without research participants' written consent
 
-Although this is strictly not necessary, we will also ask research participants' informed consent to share *anonymised research data*.  
+Although this is strictly not necessary, we will also ask inform research participants' in the information sheet about sharing *anonymised research data*.
 
 In other words, data sharing requires researchers to know who owns the *IPR* of their data and how the [General Data Protection Regulation (GDPR)](https://eugdpr.org), which covers the use of personal data, applies to them. It also has important implications for the way in which informed consent forms should be drawn up.
 
