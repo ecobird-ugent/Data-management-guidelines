@@ -84,6 +84,7 @@ Research data management is the joint responsibility of the Principal Investigat
 - Depositing data that support publications on which they are lead author
 
 ## 1.3. PGR students are in addition responsible for:
+
 - Writing a data management plan; see FPPW's [doctoral regulations](http://www.fppwdocs.ugent.be/fppw/fac_doct_regl_EN/fac_doct_regl_EN.pdf) and [DMP instructions](https://www.ugent.be/pp/en/research/rdm/data-management-plan.htm)
 - Depositing remaining data sets and project-level documentation at the end of their doctoral research project
 - Upload a data fact sheet to the UGent Biblio archive (for more information, see: https://www.ugent.be/pp/en/research/rdm/data-storage-fact-sheet.htm)
@@ -214,7 +215,7 @@ It is recommended that the PI and team members regularly verify their backup fil
 
 - **Cloud storage**:
   - All team members using cloud storage are strongly encouraged to use two-step verification (when possible) for additional protection to their accounts.
-  - Team members should not install desktop applications nor set the login screen on the cloud-storage websites to 'Remember me' on lab computers.  This is to prevent other users of the lab computers from accessing team members'  accounts, and also to avoid syncing while running an experiment.  
+  - On lab computers, team members should not install desktop applications nor set the login screen on the cloud-storage websites to 'Remember me'.  This is to prevent other users of the lab computers from accessing team members'  accounts, and also to avoid syncing while running an experiment.  
   - The PI and team members should *NEVER* store *personal, confidential* or (commercially or otherwise) *sensitive data* in the cloud. Crucially, only *anonymised research data* that cannot reveal the identity of living individuals, or be linked to individual participants by data recipients outside the lab, should be stored in the cloud.  
   - See the **Glossary** for more information about *personal, confidential* and *sensitive data*, and *anonymised research data*.
 
