@@ -334,7 +334,7 @@ Before sharing data, researchers should know who owns the intellectual property 
 More details on UGent's Intellectual Property policy can be found in the  [Valorisatiereglement](https://www.ugent.be/intranet/nl/reglementen/onderzoek/reglementen/valorisatiereglement) and in the (Onderzoeksreglement AUGent)[https://www.ugent.be/intranet/nl/reglementen/onderzoek/reglementen/onderzoeksreglementaugent.pdf/at_download/file] (both in Dutch).
 
 ***Personal, confidential and sensitive data:***
-Research with human participants can generate data containing personal, confidential or sensitive information, the sharing of which may breach legal and ethical obligations.
+Research with human participants can generate data containing personal, confidential or sensitive information, the sharing of which may breach legal and ethical obligations. Institutional guidelines for the classification of information and data can be found here: (https://www.ugent.be/en/facilities/ict/information-security/classification-data.pdf)
 
 - *Personal data*: In a [GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1532348683434&uri=CELEX:02016R0679-20160504) context, personal data "means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identi­fication number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person" (Article 4).
 
