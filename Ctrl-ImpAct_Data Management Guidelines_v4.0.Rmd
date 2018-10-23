@@ -247,7 +247,7 @@ In other words, data sharing requires researchers to know who owns the *IPR* of 
 See the **Glossary** for more details about *IPR*, *personal, confidential* and *sensitive data*, and *anonymised research data*. For more information about data sharing and informed consent, and a template consent form, see **Appendix D**.
 
 ## 3.2. Sharing active data
-Team members and the PI can use the network share, private OSF projects, or GitHub to informally share appropriate *active* (i.e. not yet archived) data and other files with each other, and with trusted researchers beyond the lab, such as reviewers and grant collaborators.
+Team members and the PI can use the network share, private OSF projects, or private GitHub repository's to informally share appropriate *active* (i.e. not yet archived) data and other files with each other, and with trusted researchers beyond the lab, such as reviewers and grant collaborators.
 
 Team members should consult the PI first before sharing *active data* with external researchers.
 
