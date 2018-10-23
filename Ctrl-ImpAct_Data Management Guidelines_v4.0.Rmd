@@ -228,7 +228,7 @@ It is recommended that the PI and team members regularly verify their backup fil
   - Team members should store *completed questionnaires* of ongoing studies separately and securely (i.e. in a locked filing cabinet). Upon completing their study, they should accurately convert the questionnaire responses into digital tabular data (which should not contain any personal identifiers).
   - Team members should *NEVER* write the participant number or code on the consent forms or questionnaires. An extra paper-based file can be used to link individual names to participant numbers or codes. This file should also be stored securely, and be destroyed once data collection is finished.
   - Team members should hand signed consent forms, payment sheets, brain stimulation screening questionnaires, and other paper questionnaires to the PI upon completing a study.
-  - The PI should in turn safely store the paper forms received, and destroy them after a 5-year retention period. Based on the lab's data inventory, he can track the date of origin and status of experiment data, and identify experiments with forms that need to be securely disposed of. This can be done with a shredder conforming to appropriate security standards.
+  - The PI should in turn safely store the paper forms received in the [faculty archive for research data](https://www.ugent.be/pp/en/faculty-offices/rso/archive). After a retention period of at least 5 years, the archive will contact the PI with instructions to securely dispose of the material.
 
 ---
 
