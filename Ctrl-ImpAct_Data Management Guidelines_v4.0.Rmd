@@ -1,9 +1,11 @@
 ---
 title: "CTRL-IMPACT LAB DATA MANAGEMENT GUIDELINES"
 output:
+  pdf_document:
+    toc: true
   html_document:
     toc: true
-    # theme: united
+urlcolor: blue
 ---
 
 ---
