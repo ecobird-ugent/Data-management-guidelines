@@ -8,7 +8,7 @@ output:
 
 ---
 
-**V4.0 25/9/2018**
+**V4.0 05/11/2018**
 
 ---
 
@@ -18,7 +18,7 @@ output:
 |2.1|Incorporation of suggestions Open Access Team Exeter and Marine Renewable Energy Group. Omitted centralised CCAL back-up system until more resources have been identified.|Myriam Mertens & Frederick Verbruggen|21/01/2013|
 |2.2|Correction of spelling errors and sources added. Comment about R added in section 2.1.3.|Myriam Mertens|17/07/2013|
 |3.0|Scope of guidelines reduced to the Verbruggen lab. Revision and extension of existing guidelines (roles & responsibilities; data storage, documentation and formatting). Addition of guidelines on data sharing & archiving.|Myriam Mertens & Frederick Verbruggen|7/1/2015|
-|4.0|New version of the guidelines tailored as much as possible to the needs of the new research group at Ghent University. Also major revision to ensure that data collection and processing will be carried according to Regulation (EU) 2016/679 and UGent's policies. Update of appendices and links to individual documents.|Frederick Verbruggen|25/9/2018|
+|4.0|New version of the guidelines tailored as much as possible to the needs of the new research group at Ghent University. Also major revision to ensure that data collection and processing will be carried according to Regulation (EU) 2016/679 and UGent's policies. Update of appendices and links to individual documents.|Frederick Verbruggen|05/11/2018|
 ---
 
 **Sources: the text and content of this document are primarily based on and adapted
@@ -358,7 +358,7 @@ Team members should encrypt the information on their external hard drives, as th
 ---
 
 # 5. Appendices
-## Appendix A. Folder structure and file naming**
+## Appendix A. Folder structure and file naming
 Examples from the 'Ctrl-ImpAct' ERC research project:
 
 **Folder names**:
@@ -391,7 +391,7 @@ File names are also based on the experiment folder. For example:
     - Debriefing: *CIA_PrepTMS_Debrief.rtf*
     - ...
 
-## Appendix B. Experiment and Analysis documentation**
+## Appendix B. Experiment and Analysis documentation
 The documentation folder of an experiment should always include:
 
 -   *Experiment Documentation*: a text document with the following information:
@@ -415,7 +415,7 @@ The documentation folder of an experiment should always include:
 
 <!-- -  Here is an example of a documentation file [add link] -->
 
-## Appendix C. Version control strategies**
+## Appendix C. Version control strategies
 
 ### Git and GitHub
 
