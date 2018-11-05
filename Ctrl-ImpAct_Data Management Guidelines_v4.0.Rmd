@@ -183,7 +183,7 @@ Team members should regularly check the completeness, accuracy and integrity of 
 ### 2.3.1. Different storage options
 Uncompressed experiment files can be stored locally (e.g. on a team member's PC), on shared network drives, or in the cloud (e.g. commercial platforms, such as OneDrive, Dropbox, Google Drive, or iCloud, but also cloud-based management services, such as Open Science Framework [Open Science Framework (OSF)](https://osf.io/)).
 
-Network storage on shares refers to storing your data on UGent servers connected to your local computer over the UGent network. This is particularly useful for confidential data (for more info, see [here](https://www.ugent.be/pp/en/research/rdm/info/storage/during-project.html). Each team member has [personal disk space](https://helpdesk.ugent.be/netdisk/en/ruimte.php), but the team also has a shared network drive 'Ctrl-ImpAct'. The PI can give each team member with an UGent account access to this drive.
+Network storage on shares refers to storing your data on UGent servers connected to your local computer over the UGent network. This is particularly useful for confidential data (for more info, see [here](https://www.ugent.be/pp/en/research/rdm/info/storage/during-project.html)). Each team member has [personal disk space](https://helpdesk.ugent.be/netdisk/en/ruimte.php), but the team also has a shared network drive 'Ctrl-ImpAct'. The PI can give each team member with an UGent account access to this drive.
 
 The main advantage of cloud storage is that, as an online storage service, it gives access to your files from any computer connected to the internet. Commercial services also allow synchronisation across your various devices: files will be automatically stored on the cloud servers as well as on your computer's hard drive (if you have installed the Dropbox desktop application there). However cloud storage is should be avoided for *personal, confidential* or *sensitive data*, as discussed below.
 
@@ -192,9 +192,9 @@ The collaborative nature of the lab's research also calls for central storage of
 
 As described in the lab's [Open Science Policy document](https://fredvbrug.github.io/openScience.html), the Ctrl-ImpAct team uses a ‘co-pilot’ system, whereby members of the research team will be asked to check each other’s code and rerun (parts of) the analysis. This requires sharing of code and data throughout the project.
 
-[GitHub](https://github.com/) should be used for code sharing. The main advantage of the platform is that it allows version control; this makes it most suitable to jointly work on experiment and analysis software. See the lab's [GitHub guidelines](https://github.com/fredvbrug/Ctrl-ImpAct-copilot-roadmap) for detailed information and practical guidelines.
+[GitHub](https://github.com/) should be used for code sharing. The main advantage of the platform is that it allows version control; this makes it most suitable to jointly work on experiment and analysis software. See the lab's [Co-pilot & GitHub guidelines](https://github.com/fredvbrug/Ctrl-ImpAct-copilot-guidelines) for detailed information and practical guidelines.
 
-Anonymised and non-confidential data can also be shared via GitHub; for confidential data the Ctrl-ImpAct share (see above) should be used.
+Anonymised and non-confidential data can also be shared via GitHub or OSF; for confidential data the Ctrl-ImpAct share (see above) should be used.
 
 ### 2.3.3. Backups
 To prevent the loss of data and other files, everybody should back up their own computer systems (including all office and personal computers where experiment files are held) at regular intervals. The backup process can be automated by using backup software (for example Apple's Time Machine or Windows Backup).
@@ -234,6 +234,7 @@ Note that all data and files stored on the UGent network are automatically inclu
 Data sharing touches upon a number of important legal and ethical issues involving *intellectual property rights (IPR)*, *personal, confidential* and *sensitive data*, and informed consent that should be taken into account.
 
 The PI and other team members should *NEVER* formally or informally share:
+
 - Data and other files for which they don't own *copyright* or don't have permission to share from the copyright holders
 - Data and other files that contain *personal*, *confidential* or *sensitive information* without research participants' written consent
 
@@ -318,7 +319,7 @@ Version control entails a variety of strategies that researchers can adopt to ke
 A master file is an original file that you always want to be able to go back to, and from which working copies are created for editing. For example, if you are editing a digital image, you would not want to lose the original picture. Milestone versions are versions of a file that are changed to such an extent--compared to previous versions--that you want to keep them (e.g. the first draft, revised draft, final draft of a file). Also see **Appendix C**.
 
 ***Incremental backup:***
-Some backup programs, such as Time Machine, make incremental backups to a backup disk. This means that it makes an initial full backup of your system, and subsequently backs up the files that have changed since the last backup. It saves hourly backups for the last 24 hours, daily backups for the past month, and weekly backups beyond that. Once the backup disk is full, Time Machine will delete the oldest backup file to make room for the most recent one. You can have Time Machine notify you when the disk is full and older backups are deleted by turning on this notification in Time Machine Preferences. It is best not to overwrite old backups with new ones, e.g. by selecting a new backup disk.
+Some backup programs, such as macOS' Time Machine, make incremental backups to a backup disk. This means that it makes an initial full backup of your system, and subsequently backs up the files that have changed since the last backup. It saves hourly backups for the last 24 hours, daily backups for the past month, and weekly backups beyond that. As noted above, avoid deletion of old back-ups.
 
 ***Active data:***
 Experiment data that have not yet been archived, i.e. that have not yet been deposited in a data repository for long-term preservation.
@@ -326,12 +327,10 @@ Experiment data that have not yet been archived, i.e. that have not yet been dep
 ***Intellectual Property Rights, including copyright:***
 Before sharing data, researchers should know who owns the intellectual property rights (IPR) of these data. Copyright is an important IPR that prevents unauthorised copies and publishing of original work that exists in written or recorded form. Researchers should therefore never share data or other materials via the cloud, data repositories, or other means unless they own copyright or have permission for sharing from the copyright holders.
 
-<!-- Under UK Law, universities usually own the IPR arising from research by their employees in the course of employment. In practice, as is the case at the University of Exeter, copyright of research materials and publications is often assigned to researchers, unless the latter have signed IPR agreements (e.g. with funders) stating otherwise. As PhD students are not considered to be university employees, they own the copyright of data and outputs from their research (unless they have sponsors claiming IPR). For collaborative research, all researchers or institutions involved own copyright. -->
-
 More details on UGent's Intellectual Property policy can be found in the  [Valorisatiereglement](https://www.ugent.be/intranet/nl/reglementen/onderzoek/reglementen/valorisatiereglement) and in the (Onderzoeksreglement AUGent)[https://www.ugent.be/intranet/nl/reglementen/onderzoek/reglementen/onderzoeksreglementaugent.pdf/at_download/file] (both in Dutch).
 
 ***Personal, confidential and sensitive data:***
-Research with human participants can generate data containing personal, confidential or sensitive information, the sharing of which may breach legal and ethical obligations. Institutional guidelines for the classification of information and data can be found here: (https://www.ugent.be/en/facilities/ict/information-security/classification-data.pdf)
+Research with human participants can generate data containing personal, confidential or sensitive information, the sharing of which may breach legal and ethical obligations. UGent's guidelines for the classification of information and data can be found [here](https://www.ugent.be/en/facilities/ict/information-security/classification-data.pdf)
 
 - *Personal data*: In a [GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1532348683434&uri=CELEX:02016R0679-20160504) context, personal data "means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identi­fication number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person" (Article 4).
 
@@ -344,7 +343,7 @@ Research with human participants can generate data containing personal, confiden
 
 Researchers should not share personal, sensitive or confidential data without research participants' written consent. Disclosure of (sensitive) personal and confidential data without consent constitutes a breach of the GDPR and psychologists' duty of confidentiality towards research participants (see e.g. [the British Psychological Society's Code of Ethics and Conduct](https://www.bps.org.uk/sites/bps.org.uk/files/Policy%20-%20Files/BPS%20Code%20of%20Ethics%20and%20Conduct%20%28Updated%20July%202018%29.pdf).
 
-It is best that team members do not collect personal and sensitive data that are not necessary for their research. They should not disclose or share participants' personal details on the signed consent forms and payment sheets, nor experimental data/questionnaire responses in which participants can be individually identified. Some more information about the GDPR can be found here: https://www.ugent.be/en/news-events/news/gdpr-en.htm
+It is best that team members do not collect personal and sensitive data that are not necessary for their research. They should not disclose or share participants' personal details on the signed consent forms and payment sheets, nor experimental data/questionnaire responses in which participants can be individually identified. Some more information about the GDPR can be found on UGent's website: https://www.ugent.be/en/news-events/news/gdpr-en.htm
 
 As outlined in the [policy framework for research data management at Ghent University](https://www.ugent.be/en/research/datamanagement/rdm-policy.pdf/at_download/file), data can also be sensitive from a commercial or institutional point of view. More specifically, "when research data are research results that are subject to technology transfer as defined by the Ghent University Regulations on Research Transfer, they must be reported to the [TechTransfer Office of Ghent University](https://www.ugent.be/techtransfer/en) prior to any kind of publication, in order to examine whether these research data can are subject to technology transfer or are protected by intellectual property rights, such as patents."
 
@@ -354,7 +353,7 @@ Researchers can share anonymised research data, where (in)direct personal identi
 ***Encryption***
 Encryption is used to safely store or move files, as it prevents unauthorised access. You can encrypt individual files, folders or entire storage devices.
 
-Team members should encrypt the information on their external hard drives, as these can easily get lost or stolen. When using Time Machine, this can be done by checking the 'Encrypt backups' box for the backup disk. There are also external hard drives available with built-in encryption. **Caution: if you forget your password, you will not be able to recover the files on your encrypted backup drive!**
+Team members should encrypt the information on their external hard drives, as these can easily get lost or stolen. When using macOS' Time Machine, this can be done by checking the 'Encrypt backups' box for the backup disk. There are also external hard drives available with built-in encryption. **Caution: if you forget your password, you will not be able to recover the files on your encrypted backup drive!**
 
 ---
 
@@ -372,7 +371,7 @@ This would create the following structure:
 -   *CtrlImpAct*
     -   *CIA_PrepTMS*
         -   *Data*
-        -   *Software*
+        -   *Code*
         -   *Documentation*
 
 **File names:**
@@ -381,7 +380,7 @@ File names are also based on the experiment folder. For example:
 - Data:  
     - Behavioural data: *CIA_PrepTMS_Behavioural_s1.txt*
     - TMS data: *CIA_PrepTMS_Tms_s1.txt*
--  Software:
+-  Code:
     - Final, bug-free version of program file: *CIA_PrepTMS.py* (during debugging stage, one can use a suffix; e.g. *CIA_PrepTMS_d1.py*. Usually, you can delete the d-files). 
     - Analysis program: e.g. *CIA_PrepTMS_ChoiceAnalysis.R*
 - Dcoumentation folder:
@@ -414,13 +413,17 @@ The documentation folder of an experiment should always include:
     -   Did you modify data or create derived/constructed variables from the original data? If so, explain the logic.
     -   When R is used, the analysis document can be created within R and include a summary of data analysis outcomes. Examples can be provided by the PI.
 
-Here is an example of a documentation file [add link]
+<!-- -  Here is an example of a documentation file [add link] -->
 
 ## Appendix C. Version control strategies**
 
+### Git and GitHub
+
+Version control can be done with Git or GitHub. Note that a local repository suffices for version control. See the lab's Git & GitHub guidelines for more information and links to relevant documentation: https://github.com/fredvbrug/Ctrl-ImpAct-copilot-roadmap
+
 ### Manual version control:
 -   To uniquely identify and distinguish between different versions of a file, incorporate version information in the file name:
-    -   Include a version number (number each successive version of a document sequentially, indicating major and minor changes by whole and decimal numbers respectively: e.g. v1, 1.1, 1.2, v.2\...), or a date (in a format that allows easy sorting: 'yymmdd'). For example:
+    -   Include a version number (number each successive version of a document sequentially, indicating major and minor changes by whole and decimal numbers respectively: e.g. v1\...), or a date (in a format that allows easy sorting: 'yymmdd'). For example:
         -   CIA_PrepTMS_ExpDoc_v1
         -   CIA_PrepTMS_ExpDoc_180930
     -   For files edited by multiple authors, also include author initials as an identifier. For example:
@@ -432,14 +435,10 @@ Here is an example of a documentation file [add link]
 -   Decide which versions of a file to keep, and how to organise them. Things to keep in mind:
     -   Keep a single master file, especially for files where loss of the original would present a problem, such as raw data. Store them separately and leave them untouched (so do not overwrite or delete!).
     -   For sharing with collaborators, editing, analysis etc. use working copies of these master files instead, so that the original files are not affected and you can always go back to them, if necessary, to start from scratch.
-    -   team members are responsible for the master files of experiments they conduct: only they should have write access to these master files.
+    -   Team members are responsible for the master files of experiments they conduct: only they should have write access to these master files.
     -   You may not have/want to keep all old versions of files, but identify milestone versions to hold on to.
     -   You can store non-current versions of files separately from current versions.
 -   Synchronise files held on different computers: e.g. by using Dropbox, which will automatically sync files on devices connected to the cloud storage service.
-
-### GitHub and GitHub Desktop
-
-[link to lab manual will be added in the future]
 
 ## Appendix D. Data sharing and informed consent
 
@@ -452,4 +451,4 @@ Taking the nature of the lab's research into account, consent forms should infor
 -   No personal details of individual participants will be revealed to persons outside the research project; signed consent and payment forms will be securely stored and disposed of after a 5-year retention period.
 -   Anonymised research data will be registered and archived in an institutional/specialist data repository so as to make them available to other researchers.
 
-Here is a template of a consent form: [add link]
+<!-- - Here is a template of a consent form: [add link] -->
