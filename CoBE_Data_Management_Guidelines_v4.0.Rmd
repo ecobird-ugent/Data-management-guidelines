@@ -106,6 +106,13 @@ For each experiment, team members should store data and other files in one folde
 
 The PI and team members can group together the folders of experiments that are part of their larger research projects (i.c. grant-funded and PhD projects) in a 'project' folder.
 
+In addition, the main experiment folder must always include a file dictionary and the files that are dependent on it. This dictionary maps the structure of the experiment folder and clarifies what data can be found in each file. The dictionary consists of 3 files, a .Rmd script mapping the files, a .txt file which links the filename to a description and a .html which summarises everything. Upon adding a file to one of the experiment folders, the researcher should add a line to the .txt file mapping filename to a description (e.g. 2023_gull_data.xlsx   Contains all raw data regarding eggs and chicks, excluding test-data.). The files should always be named accordingly:
+
+-  Experiment_name_file_directory.Rmd
+-  Experiment_name_file_directory.html
+-  Experiment_name_file_description.txt
+
+
 ### 2.1.1. Data
 The data folder of an experiment will have two subfolders:
 
